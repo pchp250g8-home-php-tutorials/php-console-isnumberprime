@@ -1,4 +1,4 @@
-FindDividersOfNumber. PHP Tutorials. Simple Input/Output. Algorithms. Console Application. 
+IsNumberPrime. PHP Tutorials. Simple Input/Output. Algorithms. Console Application. 
 A console application in the PHP programming language. 
 The program does the following:
 1. Asks the user to enter a positive integer.
@@ -11,7 +11,7 @@ The program does the following:
     5. The loop parameter variable is incremented by the loop increment. In this example, it is 1.
 Developed in the Apache NetBeans integrated environment (in the Microsoft Visual Studio editor).
 
-FindDividersOfNumber. Занятия по PHP. Простой Ввод/вывод. Алгоритмы. Консольное приложение.
+IsNumberPrime. Занятия по PHP. Простой Ввод/вывод. Алгоритмы. Консольное приложение.
 Консольное приложение написанное на языке программирования PHP. 
 Программа делает следующее:
   1. Просит пользователя ввести целое положительное число.
