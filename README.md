@@ -2,8 +2,9 @@ IsNumberPrime. PHP Tutorials. Simple Input/Output. Algorithms. Console Applicati
 A console application in the PHP programming language. 
 The program does the following:
 1. Asks the user to enter a positive integer.
-2. The message displayed is: "The number has the following divisors:"
-3. The loop with the parameter is executed:
+2. Creates a variable to count the number of divisors of the number with the value 0.
+3. The message displayed is: "The number has the following divisors:"
+4. The loop with the parameter is executed:
     1. The initial value of the parameter is set to 1, and the final value is set to the number entered from the keyboard.
     2. A series of loops is executed, where the remainder from dividing the number entered from the keyboard by the loop variable-parameter is calculated.
     3. If the remainder is zero, the value of the loop parameter is displayed on the screen.
