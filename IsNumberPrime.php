@@ -3,7 +3,7 @@
     echo("Input an integer positive number:\r\n");
     $ulNumber = intval(chop(fgets(STDIN)));
     $nDividers = 0;
-    printf("The number %lu has the folowing dividers:\r\n", $ulNumber);
+    printf("The number %lu has the folowing divisors:\r\n", $ulNumber);
     for ($i = 1; $i <= $ulNumber; $i++)
     {
         if($ulNumber % $i == 0)
